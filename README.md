@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yomna-Meles
-- 👀 I’m interested in technology, marketing and data!
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in technology, cloud and product management!
+- 🌱 I’m currently learning devops 
 - 📫 How to reach me: meles98yomna@gmail.com
 
 <!---
